@@ -20,6 +20,6 @@
 *(Will be updated as I complete labs)*
 
 ## 🔗 Connect With Me
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/bhushan-newaskar-49635b194/
 ```
 
